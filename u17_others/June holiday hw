@@ -1,0 +1,35 @@
+	
+
+# (1)
+# A private school is opening for registration. 
+# It is not known how many students will be signing up.
+# Write a program to keep track of names and students who have signed up. 
+
+# A "X" is entered to indicate the end of registration.
+# Print out a class list, which includes an index number and name 
+# for all students according to their registration sequence [3m]
+
+# Assume that the input data will always be valid.
+
+# Data to be tested Ivan, Dino, Ben, Ethan, Shion, Navan, X
+
+# Sample Output
+"""
+Enter a new name ('X' to quit): Ivan
+Enter a new name ('X' to quit): Dino
+Enter a new name ('X' to quit): Ben
+Enter a new name ('X' to quit): Ethan
+Enter a new name ('X' to quit): Shion
+Enter a new name ('X' to quit): Navan
+Enter a new name ('X' to quit): X
+
+Class List
+1 Ivan
+2 Dino
+3 Ben
+4 Ethan
+5 Shion
+6 Navan
+"""
+#####################################################################
+while
