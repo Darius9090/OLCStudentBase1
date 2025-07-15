@@ -1,8 +1,8 @@
 # write a cheer program for someone
-name=input("Give me a name ")
-for char in name:
-    print(f"Give me a {char}")
-print(f"{name} is the best")
+# name=input("Give me a name ")
+# for char in name:
+#     print(f"Give me a {char}")
+# print(f"{name} is the best")
 
 
 # ###################################################
@@ -154,3 +154,23 @@ print(f"{name} is the best")
 # # *********
 # for i in range(1, 10 , 2):  
 #      print("*" * i)
+
+
+# using for loops
+
+# # print numbers from 0 - 9
+# for i in range(10):
+#     print(i)
+
+# # print numbers from 1 to 15
+# for i in range(1,16):
+#     print(i)
+
+# # print even numbers from 2 to 24
+# for i in range(2,25,2):
+#     print(i)
+
+# print numbers from 10 to 1
+# range(start, stop, step)
+for i in range(10,0,-1):
+    print(i)
